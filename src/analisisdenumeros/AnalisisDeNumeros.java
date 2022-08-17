@@ -7,6 +7,7 @@ package analisisdenumeros;
 
 import java.util.Scanner;
 
+
 /**
  *
  * @author JESUS
